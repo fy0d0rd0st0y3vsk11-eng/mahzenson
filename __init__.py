@@ -1,1 +1,0 @@
-"""Mahzen command extensions."""
